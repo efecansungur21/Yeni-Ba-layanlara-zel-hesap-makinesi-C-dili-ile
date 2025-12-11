@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1765303373 source:c:\users\efeca\onedrive\belgeler\c proje\deneme1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1765446612 source:c:\users\efeca\onedrive\belgeler\c proje\hesap makinesi.c
+	<stdio.h>
+	<math.h>
+
